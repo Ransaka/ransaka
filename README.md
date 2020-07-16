@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m Undergraduate at University of Colombo School of Computing.
-- 🌱 I’m currently learning data science and cloud computing.
+- 🙌 I'am interested about Python programming.
+- 🌱 I’m currently learning ML and cloud computing.
 - 📫 How to reach me: 
   - Linkedin:https://www.linkedin.com/in/ransaka-ravihara-844b49158
   - Twitter:https://twitter.com/Ravi97R
