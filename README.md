@@ -15,8 +15,8 @@ Here are some ideas to get you started:
   - Linkedin: https://www.linkedin.com/in/ransaka-ravihara-844b49158
   - Twitter: https://twitter.com/Ravi97R
   - Facebook: https://www.facebook.com/ravihara.withanachchi/
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ransaka&layout=compact)](https://github.com/Ransaka/github-readme-stats) 
-- [![Ransaka's github stats](https://github-readme-stats.vercel.app/api?username=Ransaka)](https://github.com/Ransaka/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ransaka&layout=compact)](https://github.com/Ransaka/ransaka/blob/master/README.md) 
+- [![Ransaka's github stats](https://github-readme-stats.vercel.app/api?username=Ransaka)](https://github.com/Ransaka/ransaka/blob/master/README.md)
   
 
 
