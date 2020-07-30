@@ -15,6 +15,8 @@ Here are some ideas to get you started:
   - Linkedin: https://www.linkedin.com/in/ransaka-ravihara-844b49158
   - Twitter: https://twitter.com/Ravi97R
   - Facebook: https://www.facebook.com/ravihara.withanachchi/
+  
+  [![Ransaka's github stats](https://github-readme-stats.vercel.app/api?username=Ransaka)](https://github.com/anuraghazra/github-readme-stats)
 
                       
 
