@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ransaka" alt="ransaka" /> </p>
 
-- 🌱 I’m currently learning **Cloud computing, Machine Learning, Serverless**
+- 🌱 I’m currently learning **Cloud computing, Machine Learning, and Serverless**
 
 - 😃I'm interested about **Python programming**
 
